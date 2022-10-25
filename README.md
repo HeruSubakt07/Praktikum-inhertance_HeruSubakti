@@ -1,0 +1,1 @@
+# Praktikum-inhertance_HeruSubakti
